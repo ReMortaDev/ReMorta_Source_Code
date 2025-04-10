@@ -107,5 +107,6 @@ Remember to save your changes to the .html files after editing them and then ope
 
 If you get stuck, don't be afraid to search online for help with basic HTML (for adding text and images) or ask in online communities! Good luck!
 
-#   n 1 g h t w 1 r e - c o l l e c t i v e  
+#   n 1 g h t w 1 r e - c o l l e c t i v e 
+ 
  
