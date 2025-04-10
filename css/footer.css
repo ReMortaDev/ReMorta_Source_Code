@@ -6,10 +6,10 @@
     padding: 10px;
     border-top: 1px solid #00ff00; /* Green separator */
     margin-top: 15px;
-    position: sticky; /* Keep the footer at the bottom */
-    bottom: 0;
+    /* position: sticky; <--- REMOVE THIS LINE */
+    bottom: 0; /* This will now just anchor it to the bottom of the normal flow */
     width: 100%;
-    z-index: 10; /* Ensure it's above the background effects */
+    z-index: 10; /* Ensure it's above other elements if needed */
 }
 
 .footer-content p {
