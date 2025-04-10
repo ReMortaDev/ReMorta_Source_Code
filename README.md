@@ -1,4 +1,6 @@
-# Welcome to Your Awesome Website Template!
+# Welcome to Our Awesome Website Template! 
+
+Are you looking to build a [Neocities](https://neoticies.org) site, but aren't sure where to start?
 
 This template makes it easy to create your own retro-style website. Here's how to add your own stuff:
 
