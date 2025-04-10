@@ -1,6 +1,6 @@
-# Welcome to Our Awesome Website Template! 
+# Welcome to Our Awesome Website Template!
 
-Are you looking to build a [Neocities](https://neoticies.org) site, but aren't sure where to start?
+Are you looking to build a Neocities (https://neoticies.org) site, but aren't sure where to start?
 
 This template makes it easy to create your own retro-style website. Here's how to add your own stuff:
 
@@ -46,7 +46,7 @@ This template uses several CSS files within the **`css/`** folder to control how
 
 **1. `css/base.css` - The Foundation**
 
-* **Purpose:** This file sets the fundamental styles for your entire website. It controls things like the main font (`'Press Start 2P'`), the black background (`background-color: #000;`), the bright green text color (`color: #00ff00;`), and the subtle burnt-in and scanline effects.
+* **Purpose:** This file sets the fundamental styles for your entire website. It controls things like the main font ('Press Start 2P'), the black background (background-color: #000;), the bright green text color (color: #00ff00;), and the subtle burnt-in and scanline effects.
 * **How to Change:**
     * **Change the Font:** To use a different retro pixel font, find the `font-family` line in the `body` rule and replace `'Press Start 2P', cursive;` with the name of another web-safe font or a font you've linked (like from Google Fonts).
     * **Change Background Color:** Look for the `background-color` in the `body` rule and change `#000` to your desired color (e.g., `#333` for dark gray, `#111` for a slightly lighter black). You can use hex codes or color names.
@@ -65,7 +65,7 @@ This template uses several CSS files within the **`css/`** folder to control how
 
 * **Purpose:** Styles the navigation menu at the top.
 * **How to Change:**
-    * **Menu Background/Border:** The `#nav-placeholder` rule controls the background color (`background-color`), padding (`padding`), text alignment (`text-align`), and the bottom border (`border-bottom`) of the entire navigation area.
+    * **Menu Background/Border:** The `#nav-placeholder` rule controls the background color (background-color), padding (padding), text alignment (text-align), and the bottom border (border-bottom) of the entire navigation area.
     * **Link Styles:** The `#nav-placeholder nav a` rule styles the links themselves (color, text decoration, text shadow). Change the `color` and `text-shadow` to alter the link appearance. `text-decoration: none;` removes underlines by default, and `text-decoration: underline;` in `#nav-placeholder nav a:hover` adds an underline on hover.
 
 **4. `css/components.css` - Reusable Elements**
@@ -93,20 +93,15 @@ This template uses several CSS files within the **`css/`** folder to control how
     * **Homepage Heading/Text Styles:** The rules here target elements within the `.main-content` specifically on the homepage (e.g., `h1`, `p`). Change the `color` or other text properties to style these elements.
     * **You can add more specific rules here** if you want to style elements on other pages differently. For example, to style a specific `div` with the class `special-box` on your `articles.html` page, you could add a rule like `.articles-page .special-box { /* your styles */ }` in this file (you'd need to add the class `.articles-page` to the `<body>` tag of your `articles.html` file for this to work).
 
-**Remember:**
+Remember:
 
 * **Edit Carefully:** Make small changes and refresh your browser to see the results.
 * **Save:** Always save the CSS file after making changes.
 * **Experiment:** Don't be afraid to try different values to see what they do! You can always undo your changes if you don't like them.
 * **Learn CSS:** If you want to make more significant changes, learning the basics of CSS selectors, properties, and values will be very helpful. There are many free resources online!
 
-This detailed breakdown should give even a beginner a good starting point for customizing the look of their retro website using the CSS files in this template. Encourage them to explore and have fun with it!
-    Footer: Edit the partials/footer.html to change the copyright information or add links at the bottom of your site.
+Footer: Edit the `partials/footer.html` to change the copyright information or add links at the bottom of your site.
 
-Remember to save your changes to the .html files after editing them and then open the index.html file in your web browser to see your website!
+Remember to save your changes to the `.html` files after editing them and then open the `index.html` file in your web browser to see your website!
 
 If you get stuck, don't be afraid to search online for help with basic HTML (for adding text and images) or ask in online communities! Good luck!
-
-#   n 1 g h t w 1 r e - c o l l e c t i v e 
- 
- 
