@@ -1,0 +1,27 @@
+/* Grid container for the three-column layout */
+.grid-container {
+    display: grid;
+    grid-template-columns: minmax(150px, 200px) 1fr minmax(150px, 200px); /* Flexible sidebar widths */
+    gap: 15px;
+    padding: 15px;
+    max-width: 960px; /* Limit overall width for readability on larger screens */
+    margin: 20px auto; /* Center the layout */
+    background-color: rgba(0, 0, 0, 0.8); /* Slightly transparent background for the container */
+    border: 2px solid #00ff00; /* Green border */
+    box-shadow: 0 0 10px #00ff00; /* Initial subtle glow */
+}
+
+/* Style for the main content area */
+.main-content {
+    background-color: rgba(0, 0, 0, 0.7); /* Slightly transparent background */
+    padding: 15px;
+    border: 1px solid #00cc00; /* Darker green border */
+}
+
+/* Basic styling for the sidebars */
+#left-sidebar-placeholder,
+#right-sidebar-placeholder {
+    background-color: rgba(0, 0, 0, 0.7); /* Slightly transparent background */
+    padding: 10px;
+    border: 1px solid #00cc00; /* Darker green border */
+}

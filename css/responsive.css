@@ -1,0 +1,15 @@
+/* Responsive design using media queries */
+@media (max-width: 768px) {
+    .grid-container {
+        grid-template-columns: 1fr; /* Single column layout on smaller screens */
+        padding: 10px;
+        margin: 10px auto;
+    }
+
+    #left-sidebar-placeholder,
+    #right-sidebar-placeholder {
+        margin-top: 15px;
+        border: 1px solid #00cc00;
+        padding: 10px;
+    }
+}
