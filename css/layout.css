@@ -24,4 +24,5 @@
     background-color: rgba(0, 0, 0, 0.7); /* Slightly transparent background */
     padding: 10px;
     border: 1px solid #00cc00; /* Darker green border */
+    font-size: 0.8em; /* Reduce font size for sidebars */
 }
