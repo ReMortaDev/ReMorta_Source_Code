@@ -6,6 +6,8 @@ This template makes it easy to create your own retro-style website. Here's how t
 
 ![Sample Template](/assets/images/general/template_screenshot.png)
 
+# [Check out our Neocities Site built with this template](https://n1ghtw1re.neocities.org/)
+
 ## 1. Adding Pictures
 
 All your pictures should go into the **`assets/images/`** folder. We've created some subfolders to help you keep things organized:
