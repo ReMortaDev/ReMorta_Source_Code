@@ -3,9 +3,9 @@ body {
     margin: 0;
     padding: 0;
     background-color: #000; /* Black background for the Matrix look */
-    color: #ff0000; /* Red text */
+    color: #00ff00; /* Green text */
     line-height: 1.4; /* Improve readability */
-    /* text-shadow: 0 0 5px #ff0000; /* Removed the red text glow */
+    /* text-shadow: 0 0 5px #00ff00; /* Removed the green text glow */
     overflow-x: hidden; /* Prevent horizontal scrollbar */
 }
 
@@ -18,7 +18,7 @@ html {
 }
 
 a {
-    color: #ff0000; /* Slightly darker red for links */
+    color: #00ff00; /* Slightly darker red for links */
     text-decoration: none;
 }
 
